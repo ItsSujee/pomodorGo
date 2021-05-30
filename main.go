@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "pomodorGo/cmd"
+import "github.com/ItsSujee/pomodorGo/cmd"
 
 func main() {
 	cmd.Execute()

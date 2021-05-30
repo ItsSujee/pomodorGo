@@ -14,3 +14,7 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 .DS_Store
+.idea/modules.xml
+.idea/pomodorGo.iml
+.idea/vcs.xml
+.idea/workspace.xml
