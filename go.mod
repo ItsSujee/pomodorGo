@@ -1,4 +1,4 @@
-module pomodorGo
+module github.com/ItsSujee/pomodorGo
 
 go 1.16
 
